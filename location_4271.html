@@ -84,7 +84,7 @@ marker = new google.maps.Marker({
 
 position: latlng,
 
-title:'6, rue du Repos, Paris 20e',
+title:'48°51?43?N 2°23?53?E',
 
 });
 
@@ -110,7 +110,7 @@ getLo(event.latLng);
 
 });
 
-var address = '6, rue du Repos, Paris 20e';
+var address = '48°51?43?N 2°23?53?E';
 
 geocoder.geocode( { 'address': address}, function(results, status) {
 
@@ -150,7 +150,7 @@ console.log(marker);
 
 function codeAddress() {
 
-var address = '6, rue du Repos, Paris 20e';
+var address = '48°51?43?N 2°23?53?E';
 
 geocoder.geocode( { 'address': address}, function(results, status) {
 
@@ -272,7 +272,7 @@ setTimeout(loadScript,3000);
 
   <div data-role="header"> <a href="index.html" class="refresh_link" data-role="button" rel="external" data-ajax="false" role="button"><img alt="home icon" src="images/home_icon.png"></a>
 
-    <h1>Visit Me</h1>
+    <h1>Visit Me in Paris!</h1>
 
     <a class="help_link"><img src="images/help_icon.png" alt="help icon" /></a> </div>
 
@@ -288,7 +288,7 @@ setTimeout(loadScript,3000);
 
   <!-- Location Address -->
 
-  <div class="location_address"><p>6, rue du Repos, Paris 20e<br>Visit me while I rest awhile...</p></div> 
+  <div class="location_address"><p>48°51?43?N 2°23?53?E<br>Visit me while I rest awhile...</p></div> 
 
   <!-- Location Address Ends Here -->
 
