@@ -8,11 +8,11 @@
 
 	background-size:cover;	
 
-	background: linear-gradient(left , rgba(233, 249, 99, 0.47) 1% , rgba(218, 243, 2, 0.7) 80%);
-background: -o-linear-gradient(left , rgba(233, 249, 99, 0.47) 1% , rgba(218, 243, 2, 0.7) 80%);
-background: -ms-linear-gradient(left , rgba(233, 249, 99, 0.47) 1% , rgba(218, 243, 2, 0.7) 80%);
-background: -moz-linear-gradient(left , rgba(233, 249, 99, 0.47) 1% , rgba(218, 243, 2, 0.7) 80%);
-background: -webkit-linear-gradient(left , rgba(233, 249, 99, 0.47) 1% , rgba(218, 243, 2, 0.7) 80%);
+	background: linear-gradient(left , rgb(251, 255, 221) 1% , rgb(243, 255, 142) 97%);
+background: -o-linear-gradient(left , rgb(251, 255, 221) 1% , rgb(243, 255, 142) 97%);
+background: -ms-linear-gradient(left , rgb(251, 255, 221) 1% , rgb(243, 255, 142) 97%);
+background: -moz-linear-gradient(left , rgb(251, 255, 221) 1% , rgb(243, 255, 142) 97%);
+background: -webkit-linear-gradient(left , rgb(251, 255, 221) 1% , rgb(243, 255, 142) 97%);
 
 
 
